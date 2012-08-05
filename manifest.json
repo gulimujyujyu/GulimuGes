@@ -1,0 +1,16 @@
+{
+	//required
+  "name": "GulimuGes",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Gesture recognition for Google Chrome extension.",
+  "browser_action": {
+    "default_icon": "gulimujyujyu.ico",
+		"default_popup": "popup.html",
+		"defeult_title": "Gulimujyujyu Gesture"
+  },
+	//"options_page": "options.html",
+  "permissions": [
+		"background"
+  ]
+}

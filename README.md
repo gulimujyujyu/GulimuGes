@@ -1,4 +1,4 @@
 GulimuGes
 =========
 
-Gesture For Chrome Plugin
+Gesture Recognition Demo as a Chrome Plugin
